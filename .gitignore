@@ -1,8 +1,10 @@
 .venv/
+.venv-1/
 __pycache__/
 *.py[cod]
 .streamlit/
-data/raw/
+data/
 data/processed/
 experiments/*/checkpoint.pt
 experiments/*/*.csv
+catsdogs_split/
